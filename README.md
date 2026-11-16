@@ -18,6 +18,7 @@ Software desktop para **Windows (64-bit)** desenvolvido para criadores de conte�
 
 👉 **[CLIQUE AQUI PARA BAIXAR O VIRALMACHINE PRO v6.0 (.ZIP)]([https://github.com/SEU_USUARIO/ViralMachine-PRO/releases/download/v6.0/ViralMachine.zip](https://github.com/LucasG-Rodrigues/ViralMachine-Download/releases/download/v6.0/ViralMachine.zip))**
 
+Se não funcionar, acesse a aba RELEASES no menu lateral direito e clique no arquivo ViralMachine.zip 👉
 ### 🔐 Ativação e Suporte
 O uso do software requer uma chave de licença válida vinculada ao hardware (HWID).
 * **Dúvidas ou suporte técnico:** `contact.viralmachine@gmail.com`
